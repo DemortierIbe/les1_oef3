@@ -1,0 +1,14 @@
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\bin\Debug\net7.0\les1_oef3.exe
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\bin\Debug\net7.0\les1_oef3.deps.json
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\bin\Debug\net7.0\les1_oef3.runtimeconfig.json
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\bin\Debug\net7.0\les1_oef3.dll
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\bin\Debug\net7.0\les1_oef3.pdb
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\les1_oef3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\les1_oef3.AssemblyInfoInputs.cache
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\les1_oef3.AssemblyInfo.cs
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\les1_oef3.csproj.CoreCompileInputs.cache
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\les1_oef3.dll
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\refint\les1_oef3.dll
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\les1_oef3.pdb
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\les1_oef3.genruntimeconfig.cache
+C:\Users\ibe-5\demolesibeoef3\les1_oef3\les1_oef3\obj\Debug\net7.0\ref\les1_oef3.dll
